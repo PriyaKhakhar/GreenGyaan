@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327772470894",
+    "project_id": "plants-aed41",
+    "storage_bucket": "plants-aed41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327772470894:android:cf0e8fc2176c3ec435f07f",
+        "android_client_info": {
+          "package_name": "com.example.plants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV59v_Iv2ShcltaCRW0vx_ZiELXGaFf1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

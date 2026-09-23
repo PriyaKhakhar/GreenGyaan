@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Aloe Vera",
+    "description": "Medicinal succulent plant",
+    "region": "Africa",
+    "climate": "Dry",
+    "type": "Indoor",
+    "categoryName": "Medicinal",
+    "image": "https://images.unsplash.com/photo-1598514982845-3d1d4c9e5b4a",
+    "scientificName": "Aloe barbadensis",
+    "lightRequirements": "Indirect sunlight",
+    "waterFrequency": "Twice a week",
+    "difficultyLevel": "Easy",
+    "soilType": "Sandy",
+    "careInstructions": "Avoid overwatering",
+    "heightRange": "1–2 ft",
+    "spreadRange": "1 ft"
+  },
+  {
+    "title": "Snake Plant",
+    "description": "Air purifying indoor plant",
+    "region": "West Africa",
+    "climate": "Warm",
+    "type": "Indoor",
+    "categoryName": "Indoor",
+    "image": "https://images.unsplash.com/photo-1614594567424-4cc94f49a41b",
+    "scientificName": "Sansevieria trifasciata",
+    "lightRequirements": "Low to bright indirect",
+    "waterFrequency": "Once a week",
+    "difficultyLevel": "Easy",
+    "soilType": "Well-drained",
+    "careInstructions": "Water only when soil is dry",
+    "heightRange": "2–4 ft",
+    "spreadRange": "1–2 ft"
+  }
+]
